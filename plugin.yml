@@ -1,0 +1,5 @@
+name: BlockHider
+version: 1
+main: de.TheHolyException.blockhider.BlockHider
+commands:
+  blockhide:
